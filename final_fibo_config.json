@@ -1,0 +1,30 @@
+{
+  "camera": {
+    "angle": "eye_level",
+    "distance": "medium_close",
+    "field_of_view": "standard"
+  },
+  "lighting": {
+    "style": "natural_diffused",
+    "contrast": "low",
+    "mood": "soft_realistic"
+  },
+  "color": {
+    "palette": "warm_neutrals",
+    "temperature": "slightly_warm",
+    "saturation": "muted"
+  },
+  "composition": {
+    "subject_priority": "product_hero",
+    "framing": "center_weighted",
+    "negative_space": "moderate"
+  },
+  "intent_layer": {
+    "emotional_tone": "intimate",
+    "camera_relationship": "close_and_personal",
+    "brand_safety": "commercial_safe",
+    "legal_constraints": "no_medical_claims",
+    "budget_sensitivity": "mid_tier_production"
+  }
+}
+
